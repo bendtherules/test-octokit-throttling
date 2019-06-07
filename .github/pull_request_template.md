@@ -1,10 +1,7 @@
 ---
-name: Pull request
-about: Create a PR to merge anything to master
-title: suggested title [hello]
-labels: ''
-assignees: ''
+title: [JIRA-ID] - [Description]
 
 ---
 
-Please include a summary of the changes.
+- PR title should look like above. Ex: `[FDGUI-1234] - Change ABC`
+- Please include a summary of the changes in the body
