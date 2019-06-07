@@ -1,5 +1,5 @@
 ---
-title: [JIRA-ID]: [Description]
+title: [JIRA-ID]- [Description]
 ---
 
 Please include a summary of the changes.
