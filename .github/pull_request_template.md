@@ -1,6 +1,5 @@
 ---
 title: [JIRA-ID] - [Description]
-
 ---
 
 - PR title should look like above. Ex: `[FDGUI-1234] - Change ABC`
